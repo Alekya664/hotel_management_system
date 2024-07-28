@@ -1,4 +1,11 @@
 # Hotel-Management-System
 
-This project is about the creation of a simple GUI program of Hotel Management System using java.
-This simple project could be implemented in booking of hotel rooms, ordering food, viewing bill or generating complaints remotely by logging-in on the hotel’s website using user credentials. In this project, there room for further expansion
+This project aims at creating a Hotel Management System which can be used by
+Customers. Customers Should be able to know the availability of the rooms on a
+particular date to reserve in the hotel. They should be able to reserve the available
+rooms according to their need in advance to make their stay comfortable. The Admin
+hands the booking information of the customers. The Users can register and log
+into the system. The administrator will know the details of reservation and
+daily income. The hotel department maintains the seat availability and booking details
+in a certain database. This project provides high security to Admin and user
+information.
